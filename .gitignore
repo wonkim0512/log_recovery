@@ -102,3 +102,6 @@ ENV/
 
 # config file
 config.py
+
+# odf file
+*.odt
